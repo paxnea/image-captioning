@@ -1,2 +1,2 @@
 # img_captioning_dump
-Image captioning test files and scripts
+WIP; a collection of random scripts and files testing computer vision / image captioning.
